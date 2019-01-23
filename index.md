@@ -1,3 +1,11 @@
+## Why I am taking Software Engineering
+
+.....
+
+
+
+
+
 ## What Software Engineering Means to Me
 
 To me, software engineering has a few different levels to it when I think of it.  The first level is the problem / demand level, meaning
