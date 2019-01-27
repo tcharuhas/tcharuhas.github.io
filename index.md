@@ -1,8 +1,6 @@
 ## Why I am taking Software Engineering
 
-.....
-
-
+I am taking software engineering in order to broaden my knowledge in the Computer Science field.  Something about software engineering I enjoy is that it is a hands-on and project based class, because most CS classes in college are theory based, and involve less hands-on opportunities.  Getting experience with projects is important because the reality is most careers in CS are software engineering and technical based, unless you go into academia which is where the theory side is more important.  I have no desire to go to grad-school or into a field of academia/research, so software engineering is vital to take.
 
 
 
