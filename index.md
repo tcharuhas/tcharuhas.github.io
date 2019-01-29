@@ -1,3 +1,8 @@
+## Chapter 1 : The Pragmatic Programmer
+
+In the first chapter of The Pragmatic Programmer, I agree with The Cat Ate My Source Code, which essentially is saying to take responsibility and do not blame someone or something else.    Something that confused me in this chapter was the part about stone soup and boiled frogs, more specifically the part about the boiled frogs.  I get that the analogy is saying that you should focus on the bigger picture, but I feel eventually you have to delve into the details.  The Knowledge Portfolio is an interesting approach of which I've never heard to keep your learning / knowledge up to date, and I do believe it is useful to keep in the back of your mind. 
+
+
 ## Why I am taking Software Engineering
 
 I am taking software engineering in order to broaden my knowledge in the Computer Science field.  Something about software engineering I enjoy is that it is a hands-on and project based class, because most CS classes in college are theory based, and involve less hands-on opportunities.  Getting experience with projects is important because the reality is most careers in CS are software engineering and technical based, unless you go into academia which is where the theory side is more important.  I have no desire to go to grad-school or into a field of academia/research, so software engineering is vital to take.
