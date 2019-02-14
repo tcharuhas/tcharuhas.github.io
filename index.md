@@ -1,3 +1,8 @@
+## Chapter 2 :The Pragmatic Programmer
+
+I agree with the part in this Chapter, specifically the ending, about giving rough estimates and even saying you will get back at a later date.  I agree with this because if you have a rough idea of how long something will take you, it is always good to give a timeline.  It is not always possible to know how long something will take though,so getting back at a later date is sometimes best.  I found the section titled Domain Languages to be the most confusing, as it is a little vague in the description.  I found the Tracer bullet section to be most interesting, because you can give the consumer a rough idea of what is going to happen without fully doing it yet.
+
+
 ## Chapter 1 : The Pragmatic Programmer
 
 In the first chapter of The Pragmatic Programmer, I agree with The Cat Ate My Source Code, which essentially is saying to take responsibility and do not blame someone or something else.    Something that confused me in this chapter was the part about stone soup and boiled frogs, more specifically the part about the boiled frogs.  I get that the analogy is saying that you should focus on the bigger picture, but I feel eventually you have to delve into the details.  The Knowledge Portfolio is an interesting approach of which I've never heard to keep your learning / knowledge up to date, and I do believe it is useful to keep in the back of your mind. 
