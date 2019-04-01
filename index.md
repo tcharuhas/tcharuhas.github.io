@@ -1,3 +1,16 @@
+## The Twelve-Factor Application
+
+Factors that I ran into that initially did not make much sense to me was the Dev/Prod parity. 
+After my first read over the chapters, I could not figure out what the goals for it was.  
+A second and third read showed that Dev/Prod parity is more of attempting
+to keep your services as similar as possible in order to not have to keep track of so many
+things.  One thing I really agree with is including config files in the project.  Without
+any config files, it makes it very tedious to go in and change trivial things such as unit
+conversions, etc.  I think the Twelve-Factor app fits into our project because we will utilize
+many of the steps provided.  Just to name a few, the codebase step will fit in, the log step will
+fit in, and the dependencies will fit in.
+
+
 ## Chapter 7 :The Pragmatic Programmer
 
 This chapter provided some valuable and helpful information regarding the beginning of the project phase.  You must go beyond the user requirement list and dig into what they mean more deeply.  While solving "impossible" puzzles, it is interesting that they aren't always as hard as they appear to be.  Jumping into coding is a big mistake because you are prone to lots of errors and refactoring since you most likely do not have a good grasp on what they want yet.  I think it is a good idea to be as specific as possible as well, to avoid any unnecessary errors due to confusion over doubt and details.
